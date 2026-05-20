@@ -126,4 +126,4 @@ run('src/record_robot_video.m')
 
 Yuvavignesh Balamurugan
 M.S. Robotics — Arizona State University, May 2026
-Seeking Medical Device R&D and Robotics Engineering roles in Minnesota
+Seeking Medical Device R&D and Robotics Engineering roles
